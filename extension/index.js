@@ -1,4 +1,4 @@
-import {hello} from 'sauls-test-extension'
+import {hello} from 'sauls-tmp-package'
 
 export default [{
     id: 'sauls-magic-extension',
