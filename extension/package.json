@@ -1,0 +1,12 @@
+{
+  "name": "sauls-test-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "requires": {
+    "sauls-test-extension": "*"
+  },
+  "jupyterlab": {
+    "extension": true
+  }
+}
